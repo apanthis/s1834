@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Welcome+to+s1834's+GitHub+Profile" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Welcome+to+s1834's+GitHub+Profile" alt="Typing SVG" /></a></p>
 <br>
+<p align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Competitive+Programmer;Web3+Enthusisast" alt="Typing SVG" /></a></p>
 
 <p align="center">

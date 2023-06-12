@@ -47,17 +47,19 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  [![s’1834s GitHub stats](https://github-readme-stats.vercel.app/api?username=s1834&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<br>
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1834&layout=compact&theme=chartreuse-dark&show_icons=true)
+<a href="https://github.com/s1834">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
+</a>
 </p>
 <br>
 <p align="center">
 <a href="https://github.com/s1834">
-  [![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=s1834&theme=chartreuse-dark)](https://github.com/s1834)
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </a>
+</p>
+<br>
+<p align="center">
+  [![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=s1834&theme=chartreuse-dark)](https://github.com/s1834)
 </p>
 
 <br>

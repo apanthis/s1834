@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/s1834">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <br>
 <p align="center">
-[![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=s1834&theme=chartreuse-dark&hide_border=true)](https://github.com/s1834)
+![](https://github-readme-streak-stats.herokuapp.com/?user=s1834&theme=chartreuse-dark&hide_border=false)
 </p>
 
 <br>

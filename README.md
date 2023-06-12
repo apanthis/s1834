@@ -54,19 +54,19 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <a href="https://github.com/s1834">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </a>
 </p>
 <br>
 <p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=s1834&theme=chartreuse-dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="220" alt=“s1834’s streak graph"  />
 </p>
 
 <br>
 <hr>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="220" alt=“s1834’s streak graph"  />
+ [![s’1834s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
 </div>
 
 <br>

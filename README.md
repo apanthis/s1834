@@ -65,11 +65,9 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<p align="center">
-  
-[![s’1834s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
-
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="220" alt=“s1834’s streak graph"  />
+</div>
 
 <br>
 <hr>

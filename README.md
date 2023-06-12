@@ -53,9 +53,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/s1834">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1834&layout=compact&theme=chartreuse-dark&show_icons=true)
-</a>
 </p>
 <br>
 <p align="center">

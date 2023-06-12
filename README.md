@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/s1834">
-  [![s’1834s GitHub stats](https://github-readme-stats.vercel.app/api?username=s1834&show_icons=true&theme=chartreuse-dark)](https://github.com/s1834)
+  [![s’1834s GitHub stats](https://github-readme-stats.vercel.app/api?username=s1834&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </p>
 <br>

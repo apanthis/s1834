@@ -48,27 +48,28 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/s1834">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
+  ![s’1834s GitHub stats](https://github-readme-stats.vercel.app/api?username=s1834&show_icons=true&theme=chartreuse-dark)
 </a>
+</p>
 <br>
-</p>
 <p align="center">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+<a href="https://github.com/s1834">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1834&layout=compact&theme=chartreuse-dark&show_icons=true)
 </a>
 </p>
-
+<br>
 <p align="center">
-
-[![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=s1834&theme=chartreuse-dark&hide_border=true)](https://github.com/s1834)
-
+<a href="https://github.com/s1834">
+  [![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=s1834&theme=chartreuse-dark)](https://github.com/s1834)
+</a>
 </p>
 
 <br>
 <hr>
 
 <p align="center">
-
-[![s1834's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
+  
+[![s’1834s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
 
 </p>
 

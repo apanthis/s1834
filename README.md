@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/s1834">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark"><br>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=s1834&show_icons=true&theme=chartreuse-dark"><br>
 </a>
 </p>
 <br>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-  [![s1834's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=s1834&theme=chartreuse-dark)](https://github.com/s1834)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s1834&theme=chartreuse-dark)](https://git.io/streak-stats)
 </p>
 
 <br>

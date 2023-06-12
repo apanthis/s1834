@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=s1834&theme=chartreuse-dark)](https://github.com/s1834)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=s1834&theme=chartreuse-dark)](https://git.io/streak-stats)
 </p>
 
 <br>

@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<<p align="center">
+<p align="center">
   
 [![s’1834s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
                   

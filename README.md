@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-<h1 >Visits: </h1> 
+<h1 align="center">Visits: </h1> 
 
 ![Visitor Count](https://profile-counter.glitch.me/s1834/count.svg)
   

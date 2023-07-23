@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/s1834/count.svg)
-
+[![Visitor Count](https://profile-counter.glitch.me/s1834/count.svg)](https://github.com/s1834)
+  
 </p>

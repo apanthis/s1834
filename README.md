@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Visits: </h1> 
 
-<p align="center">
+<div style="text-align: center;">
   
 [![Visitor Count](https://profile-counter.glitch.me/s1834/count.svg)](https://github.com/s1834)
   
-</p>
+</div>

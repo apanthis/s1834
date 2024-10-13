@@ -70,7 +70,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
    </a>
    <a href="https://www.rust-lang.org" target="_blank"> 
-      <img src="[https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)" alt="Rust" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/> 
    </a> 
    <a href="https://www.java.com/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
    <a href="https://developer.apple.com/swift/" target="_blank"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
    </a> 
+  <br>
    <a href="https://tailwindcss.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
    </a> 
@@ -105,12 +106,14 @@ Here are some ideas to get you started:
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
    </a> 
+   <br>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
    </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-   </a> 
+   </a>
+    <br>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
    </a> 
@@ -139,18 +142,18 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/s1834">
-    <img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+    <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/s1834">
-    <img height="300" width="600" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark" alt="Top Languages">
+    <img height="300" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark" alt="Top Languages">
   </a>
 </p>
 
 <p align="center">
-  <img height="300" width="600" src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Graph">
+  <img height="300" width="500" src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Graph">
 </p>
 
 <br>

@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/s1834" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub/s1834" height="30" width="40" /></a>
   <a href="https://bento.me/s1834" target="_blank"><img align="center" src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-bento-japan-flat-flat-juicy-fish.png" alt="Bento/s1834" height="30" width="40" /></a>
   <a href="https://twitter.com/s1834_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/s1834_" height="30" width="40" /></a>
-  <a href="https://leetcode.com/s1834/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-seaech-and-unlock-icon-shadow-tal-revivo.png" alt="LeetCode/s1834" height="30" width="40" /></a>
+  <a href="https://leetcode.com/s1834/" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="LeetCode/s1834" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/s1834" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces/s1834" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/s1834" target="_blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/7d83b9e0babc85e4d6b5ab0c2cd7b7f8.png" alt="CodeChef/s1834" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/s1834" target="_blank"><img align="center" src="[https://cdn.codechef.com/sites/default/files/uploads/pictures/7d83b9e0babc85e4d6b5ab0c2cd7b7f8.png](https://github.com/cschindlbeck/compcodicons/blob/master/svg/codechef.svg)" alt="CodeChef/s1834" height="30" width="40" /></a>
   <a href="https://drive.google.com/file/d/1crUAxIW2iuMknzrkX1oucdzqEPbH6yhk/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume/resume.shubhshah.xyz" height="30" width="40" /></a>
 </p>
 
@@ -121,13 +121,13 @@ Here are some ideas to get you started:
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
    </a> 
    <a href="https://aws.amazon.com/" target="_blank"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
    </a>
    <a href="https://www.postman.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
    </a>
    <a href="https://www.cloudflare.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-tile.svg" alt="Cloudflare" width="40" height="40"/> 
+      <img src="[https://www.vectorlogo.zone/logos/cloudflare/cloudflare-tile.svg](https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg)" alt="Cloudflare" width="40" height="40"/> 
    </a> 
 </p>
 <hr>
@@ -139,24 +139,18 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/s1834">
-    <img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+    <img height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=s1834&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/s1834">
-    <img height="250" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark" alt="Top Languages">
+    <img height="300" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s1834&layout=compact&langs_count=10&theme=chartreuse-dark" alt="Top Languages">
   </a>
 </p>
 
 <p align="center">
-  <img height="250" width="400" src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Graph">
-</p>
-
-<p align="center">
-  <a href="https://github.com/s1834">
-    <img height="250" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact" alt="GitHub Activity Graph">
-  </a>
+  <img height="300" width="500" src="https://streak-stats.demolab.com?user=s1834&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Graph">
 </p>
 
 <br>
@@ -165,15 +159,9 @@ Here are some ideas to get you started:
 <h2 align="center">GitHub Activity & Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/s1834">
-    <img height="250" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact" alt="GitHub Activity Graph">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/s1834/s1834/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Game">
+  
+[![s’1834s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1834&theme=github-compact)](https://github.com/s1834)
+                  
 </p>
 
 

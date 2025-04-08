@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 <h1 align="center">Visits:</h1>
 
 <p align="center">
-  <a href="https://github.com/s1834">
-    <img src="https://profile-counter.glitch.me/s1834/count.svg" alt="Visitor Count" />
+  <a href="https://github.com/apanthis">
+    <img src="https://profile-counter.glitch.me/apanthis/count.svg" alt="Visitor Count" />
   </a>
 </p>
